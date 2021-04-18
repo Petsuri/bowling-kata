@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingKata", "BowlingKata\BowlingKata.csproj", "{9C1017AB-36AE-4620-9C45-8B1F52EC97DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingKata.UnitTests", "BowlingKata.UnitTests\BowlingKata.UnitTests.csproj", "{6F765331-114D-4578-AE47-508F985DF66B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1017AB-36AE-4620-9C45-8B1F52EC97DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1017AB-36AE-4620-9C45-8B1F52EC97DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1017AB-36AE-4620-9C45-8B1F52EC97DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1017AB-36AE-4620-9C45-8B1F52EC97DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F765331-114D-4578-AE47-508F985DF66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F765331-114D-4578-AE47-508F985DF66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F765331-114D-4578-AE47-508F985DF66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F765331-114D-4578-AE47-508F985DF66B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CFC384-AE60-4098-B18D-CD9F4BB43C96}
+	EndGlobalSection
+EndGlobal
